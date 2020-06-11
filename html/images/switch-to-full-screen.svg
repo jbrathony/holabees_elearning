@@ -1,0 +1,12 @@
+<svg id="switch-to-full-screen-button" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #25a28c;
+      }
+    </style>
+  </defs>
+  <g id="fullscreen">
+    <path id="Tracé_7213" data-name="Tracé 7213" class="cls-1" d="M3.143,14.143H0V22H7.857V18.857H3.143ZM0,7.857H3.143V3.143H7.857V0H0Zm18.857,11H14.143V22H22V14.143H18.857ZM14.143,0V3.143h4.714V7.857H22V0Z"/>
+  </g>
+</svg>
